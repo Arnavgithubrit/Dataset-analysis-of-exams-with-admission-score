@@ -1,2 +1,2 @@
-# Dataset-analysis-of-exams-with-admission-score
-A
+# This dataset consists of two different exam scores along with the admission score for each exam. Here we have tried to analyze how Exam 1 and Exam 2 affect admission score. We have used gradient descent and linear regression. We have computed regression performance metrices like MSE, RMSE, MAE, and R². Correlation analysis is carried out to see which exam is more correlated with admission score numerically and visually. 
+
